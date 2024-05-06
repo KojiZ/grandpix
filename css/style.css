@@ -1,0 +1,40 @@
+*{margin: 0; padding: 0;}
+
+body{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'League Gothic', sans-serif;
+}
+
+.mario {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'League Gothic', sans-serif;
+    font-size: 40px;
+}
+
+.luigi {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'League Gothic', sans-serif;
+    font-size: 25px; 
+   
+}
+
+.imgf:hover{
+    scale: 1.1;
+    
+}
+
+.cardzinho {
+    background: transparent;
+}
+
+.footerzin {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+
+.imgfg:hover {
+    color: white !important;
+    
+}
